@@ -10,4 +10,10 @@ package com.mycompany.studentproject;
  */
 public class StudentDetailsPrint {
     
+    public static void main(String[] args){
+        
+        
+        System.out.println("HELLO");
+    }
+    
 }
